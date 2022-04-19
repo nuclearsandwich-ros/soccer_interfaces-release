@@ -1,1 +1,1 @@
-{"base": "c93d789", "parent": "debian/rolling/soccer_vision_2d_msgs", "previous": "3691538", "trim": "", "trimbase": ""}
+{"base": "e2521c1", "parent": "debian/humble/soccer_vision_2d_msgs", "previous": "8371ea7", "trim": "", "trimbase": ""}
